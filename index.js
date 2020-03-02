@@ -15,4 +15,6 @@ function publicKeyByPrivateKey(p){
     return publicKey.toString('hex');
 }
 
-module.exports = publicKeyByPrivateKey;
+module.exports = {
+    publicKeyByPrivateKey
+};
