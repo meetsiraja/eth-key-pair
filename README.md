@@ -31,3 +31,15 @@ console.log(publicKey)
 ```bash
  e06740583be9fbdabaa26fc1795e2bbaacb95fabbd47f7ed5454d4c3033906fb8d6080f1b601da0a746ab39d5bde4c26c118638cbc77367b49dd65d086897ba3
 ```
+
+## Contributing
+
+- Issues & Pull requests are welcome! Fork, branch, and submit PR.
+
+## Changelog
+
+- [Changelog](https://github.com/meetsiraja/eth-key-pair/blob/master/CHANGELOG.md)
+
+## Licence
+
+[MIT](https://github.com/meetsiraja/eth-key-pair/blob/master/LICENCE.md)
