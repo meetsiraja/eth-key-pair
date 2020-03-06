@@ -1,6 +1,6 @@
 {
   "name": "eth-key-pair",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Library to convert ethreum public key, private key and address.",
   "main": "index.js",
   "scripts": {
